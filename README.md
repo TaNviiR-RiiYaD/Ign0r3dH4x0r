@@ -3,6 +3,12 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Ign0r3dH4x0r&show_icons=true&theme=radical&cache_seconds=3000&hide=contribs&include_all_commits=true&count_private=true&show_owner=true&layout=compact&hide_border=true&custom_title=GITHUB+STATUS:">
 </p>
+<br>
+<p>
+ - I'm Shayer Mahmud Sowmik.
+ - A newbie programmer.
+ - Currently trying to learn python. :)
+ - Working hard to fullfill my dreams. :)
 
 # 
 
